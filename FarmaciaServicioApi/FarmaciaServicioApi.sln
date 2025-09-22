@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmaciaServicioApi", "FarmaciaServicioApi\FarmaciaServicioApi.csproj", "{605011FF-2950-4AA6-9469-A505D3C45651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmaciaHexagonalApp", "..\FarmaciaHexagonalApp\FarmaciaHexagonalApp.csproj", "{BD90A1D2-3616-4B4C-B31F-B0966804F37B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605011FF-2950-4AA6-9469-A505D3C45651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605011FF-2950-4AA6-9469-A505D3C45651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605011FF-2950-4AA6-9469-A505D3C45651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605011FF-2950-4AA6-9469-A505D3C45651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD90A1D2-3616-4B4C-B31F-B0966804F37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD90A1D2-3616-4B4C-B31F-B0966804F37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD90A1D2-3616-4B4C-B31F-B0966804F37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD90A1D2-3616-4B4C-B31F-B0966804F37B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4B762F0-C45F-4CC5-92A2-A29701793619}
+	EndGlobalSection
+EndGlobal
